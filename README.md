@@ -60,6 +60,13 @@ The govermen has set the minimum wage in 1.108 € groos per month in 2021.
 **Common Clauses*
 
 **Probation period**
+If the collective agreement is silent on the probationary period, the terms of the law shall apply:
+* Qualified technicians: may not exceed 6 months.
+* Other workers: may not exceed 2 months. If the company has less than 25 workers, it cannot exceed 3 months.
+
+In the case of temporary workers, if the contract is for 6 months, the trial period may not exceed one month.
+
+A probationary period may not be imposed on an employee who has already performed the same functions in the same job.
 
 **Parental Leave**
 

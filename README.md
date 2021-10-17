@@ -49,11 +49,14 @@ If the freelance ceases the activity involuntarily and ccan justify this involun
 ## Make your activity profitable
 
 When you are a freelance you have to take into account several factors to make your activity profitable:
-- Fixed costs
+- **Fixed costs**
+
 Those that you need to worK, for example, electricity, internet, telephone, etc.
-- Salary.
+- **Salary**
+
 yes, it is different from what you can earn in general for your work. Basically, it would be the cost of having trained and worked your knowledge and skills.
-- Benefits.
+- **Benefits**
+
 What you earn once yo have paid the fixed cost and your salary.
 
 To all this you would have yo add a savings base, for example if you want to sabe 300€ per month add it to the budget.
@@ -78,11 +81,12 @@ If the numbers don't add up, you should recalculate the strategy, like getting m
 
 In the software development field there are different payment terms:
 - By hour.
+
 Once you have calculated the amount you'll need to pay the fixed cost, your salary and your savigns base and your basis for amortizations, you can set a fixed price for a unit of time.
 
-* Pros: It is simple because it is clear to the client that you'll charge for the time you spent in his commission.
-* Cons: It is complex because estimates are usually unrealistic. Each subject is different and the knowledge it requires is different, becaus you have to justify all that time.
-* Cons: Iy limits you when it comes to "selling" those units, since they are finite (8 hours per day).
+* **Pros**: It is simple because it is clear to the client that you'll charge for the time you spent in his commission.
+* **Cons**: It is complex because estimates are usually unrealistic. Each subject is different and the knowledge it requires is different, becaus you have to justify all that time.
+* **Cons**: Iy limits you when it comes to "selling" those units, since they are finite (8 hours per day).
 
 Justifying the time: There are several methods, like you'll have to write 200 lines of code, as they have calculated that those 200 lines are more or less developed in 8 hours. Or to be online on an APP during your work session.
 
@@ -93,20 +97,22 @@ In such a case, do not work extra hours, use that time to disconnect and refresh
 If you are going to use this payment term, remember to set a clear way to calculate the hours you'll spend in the project in the contract.
 
 - By project.
+
 With your activity's numbers on mind you'll need to know how big is the project and if it going to consume all your working hours or if you will be able to get more than one client at the same time.
 
 Think about the projects and the information you'll need to calculate how big or how small the project is. Once you have work out the information you are looking for, develop a questionnaire that collects it efficiently.
 
-* Pros: It gives to the client peace of mind because he or she will know what is facing.
-* Cons: to difficult to calculate without previous experience in the matter. 
+* **Pros**: It gives to the client peace of mind because he or she will know what is facing.
+* **Cons**: to difficult to calculate without previous experience in the matter. 
 You can change references like the competitors price (don't push down your price to compete, it would damage all the sector) scales, what your lawyers charges mutiplied by 1.3
-* Cons: If you set yourself in a range of money it will be difficult to "raise" it later.
+* **Cons**: If you set yourself in a range of money it will be difficult to "raise" it later.
 Try to start with highers prices and learn how to sell your skills, it's more important to seem confident than being confident.
 
 
 If you opt for this payment term, perhaps a system of ranges (I make this kind of projects from 3000€ to 1000€ -a little trick here, if you say the lower price after the higher price the client will feel more relief and will think that your services are payable) will help you and adjust according to the subject and the client.
 
 - Mixed: by hour and by milestones.
+
 Combines both forms of work, in such a way that you are paid by the hour, with the agreed control of hours, and when you reach certain points, the milestones, you get a bonus, as if it were a project.
 
 If you opt for this formula, keep in mind what has been said about working by the hour and, in addition, add a clear and specific roadmap for the development of the project.

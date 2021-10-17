@@ -21,7 +21,17 @@ The incomes will be subject to taxation, generally personal income tax and VAT, 
 
 **To insure common and occupational risks**
 
-It is a common practice to contract a private insurance policy for sick leave, temporary or permanente disability or in case of an emergency that prevents you from continuing to work.
+A worker registered as serlf-empoyed is entitled to receive the following benefits:
+- Health care for the self-employed
+- Severance benefit for self-employed workers
+- Temporary disability benefit
+- Permanent disability benefit
+- Maternity or paternity benefit
+- Pregnancy or breastfeeding risk benefit
+- Non-disabling permanent injury benefit
+- Retirement benefit or retirement pension
+- Death and survivors' benefits and family benefits
+- School insurance benefits
 
 **Common Clauses**
 
@@ -128,7 +138,7 @@ The invoice must include the following information:
 - Concept. Invoice description.
 - Price.
 - Withholding (personal taxes)
-- IVA
+- VAT (IVA)
 - Total amount: Price- personal taxes + IVA.
 - Payment method.
 
@@ -165,10 +175,116 @@ Since the 1st January 2021 the pareantal leave will be 16 weeks for both parents
 
 **Sick Leave**
 
+Sick leave due to common illness or accident is a circumstance that prevents the employee from performing his or her duties for a variable period of time, depending on the seriousness of the accident or similar.  Its regulation is subject to certain conditions.
+During this period, the worker is entitled to a subsidy or economic benefit from the company.
+
+In the case of the subsidy, this right to which the worker has access is manifested in two ways:
+
+- If the sick leave is due to common illness or non-occupational accident, the worker is entitled to common contingencies.
+- In the case of proffessional illnesses or accidents, the definition changes to professional contingencies.
+
+There is also Temporary Disability, subject to a determined period of time, and Permanent Disabilities, which are established within three categories: partial, total or absolute, a condition that prevents the worker from continuing to perform his/her duties.
+
+Temporary Incapacity resulting from a medical leave has a maximum duration of one year, which can be extended for a further six months if necessary. The INSS is the body in charge of establishing these periods.
 
 **Termination**
 
 In Spain, dismissal usually carries a severance payment unless it is a disciplinary dismissal. 
 The dismissal requires certain formalities although it does not prevent the employee from being dismissed.
 In essence, dismissal in Spain is free but not free. The worker can leave his job freely with a notice.
+
+
+# MV Project. Remote work information for Colombia.
+
+## Freelance
+
+**concept**
+
+Independent activity, related in many cases to the contract for the provision of professional services, normally defined by mutual agreement; all works or products of the contractor are presumed to be those of the principal or contractor.
+
+In a service contract, in theory, a person is hired to perform a specific task, complying with certain conditions and guidelines without being subject to the will of the contracting party.
+
+Affiliation shall be mandatory for any natural person, national or foreign resident in Colombia, through contractual orders or contracts for the provision of services, when their term is longer than one (1) month, and provided that they are more than one (1) month, and as long as they are agreed with precision of the situations of time, way and place in the time, manner and place in which such services will be rendered.
+
+**Invoices**
+
+Value or exchange title representing goods or services, payable within 30 days, at the end of which time it is understood to be accepted.
+Its function is to serve as proof of a commercial transaction reflecting the value of the products or services acquired, together with the expenses and taxes to which the commercial operation is subject.
+
+- how to make an invoice
+
+The invoice must include:
+- contractor information. (person's name or company's name, address, identification document)
+- transaction information (price of the service, taxes, total amount to pay, and payment methods)
+
+If the invoice doesn't fulfill all the legal requirements the invoice won't be considered a value or exchange title.
+
+**Taxes**
+
+By residence or tax domicile, it is understood that Colombian national or foreign source activities are taxed. Double taxation avoidance treaties apply and advance pricing agreements are allowed.****
+
+**Common Clauses**
+
+- Parties identificacion
+- Object of the contract
+- Scope of the contract's object.
+- Obligations.
+- Price
+- Payment method
+- Term
+- Jurisdiction
+
+Be carefull if it includes NDA, copyright or non compete clauses.
+
+**Termination**
+
+- Mutual cancellation. Both parties decide to terminate the contract. 
+- Termination of contracts 
+- Contractual termination.
+
+## Employees.
+
+**working hours**
+
+8 hours per day, and a maximum of 48 hours per week.
+
+**Minimum wage**
+
+Minimum salary is $1,023,000 Cop including transportation allowance, adjusted according to the previous annual CPI.
+There is an integral salary, equivalent to 10 smmlv, including a benefit factor of 30%.
+For fixed-term contracts: indemnity for the remaining term of the contract.
+For indefinite term contracts: indemnity of 30 days for the first year of services, and 20 for the subsequent years.
+
+
+**Probation period**
+
+It may be stipulated by the parties, in the absence of stipulation it is 2 months.
+In fixed-term contracts of one year or less, it may not exceed one fifth of its duration.
+
+
+**Parental leave**
+
+14 weeks fo childbirht in womens, 2 weeks for mens.
+
+**Right to disconnect**
+
+The court has established the right to respect the worker's rest days in the same terms as for face-to-face work, but no explicit guarantee has been specified with this denomination.
+
+**employee control, monitoring and suveilance**
+
+Only with the consent of the parties and under mutual agreement of the parties, according to the company's information security policies, with a clear and express purpose of the Company.
+
+**Unemployment insurance**
+
+A social security equivalent to a payment of one minimum salary for 2 months in case of being unemployed or the same amount divided by 12 months.
+Severance payment (1 month's salary for each year of service), paid on February 14 of each year to a severance fund, can only be withdrawn for specific reasons (retirement, study, housing).
+Interest on severance payments (12% of monthly salary), paid to the employee on January 31 of each year.
+
+**Termination requirements for employees**
+
+30 days prior notice for fixed-term contracts.
+Prior notice at any time for indirect dismissal or without just cause and payment of compensation.
+Due process, notice at any time and withdrawal with just cause, forfeiture of severance pay.
+
+ 
 
